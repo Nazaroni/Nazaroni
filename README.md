@@ -28,12 +28,31 @@
 <img align="left" alt="C++" width="26px" style="margin: 5px" src="assets/cpp.webp" />
 <img align="left" alt="Go" width="26px" style="margin: 5px" src="assets/go.webp" />
 <img align="left" alt="Rust" width="26px" style="margin: 5px" src="assets/rust.webp" />
+<img align="left" alt="Swift" width="26px" style="margin: 5px" src="assets/swift.png" />
+<img align="left" alt="Kotlin" width="26px" style="margin: 5px" src="assets/kotlin.png" />
+<img align="left" alt="Rust" width="26px" style="margin: 5px" src="assets/rust.webp" />
 <img align="left" alt="React" width="26px" style="margin: 5px" src="assets/react.webp" />
 <img align="left" alt="Vue" width="26px" style="margin: 5px" src="assets/vuejs.webp" />
+<img align="left" alt="Nuxt" width="26px" style="margin: 5px" src="assets/nuxt-dot-js.png" />
 <img align="left" alt="NodeJS" width="26px" style="margin: 5px" src="assets/nodejs.webp" />
 <img align="left" alt="GraphQL" width="26px" style="margin: 5px" src="assets/graphql.png" />
+<img align="left" alt="Docker" width="26px" style="margin: 5px" src="assets/docker.webp" />
+<img align="left" alt="k8s" width="26px" style="margin: 5px" src="assets/kubernets.png" />
+<img align="left" alt="PostgreSQL" width="26px" style="margin: 5px" src="assets/postgresql.webp" />
+<img align="left" alt="MongoDB" width="26px" style="margin: 5px" src="assets/mongodb.webp" />
 <img align="left" alt="Visual Studio Code" width="26px" style="margin: 5px" src="assets/vs_code_dark.png" />
+<img align="left" alt="PyCharm" width="26px" style="margin: 5px" src="assets/pycharm.webp" />
+<img align="left" alt="WebStorm" width="26px" style="margin: 5px" src="assets/webstorm.png" />
+<img align="left" alt="Android Studio" width="26px" style="margin: 5px" src="assets/android-studio.png" />
+<img align="left" alt="Vim" width="26px" style="margin: 5px" src="assets/vim.png" />
 <img align="left" alt="Linux" width="26px" style="margin: 5px" src="assets/linux.webp" />
+<img align="left" alt="MacOS" width="26px" style="margin: 5px" src="assets/apple.webp" />
+<img align="left" alt="Windows" width="26px" style="margin: 5px" src="assets/windows.webp" />
+<img align="left" alt="Terminal" width="26px" style="margin: 5px" src="assets/terminal.webp" />
+<img align="left" alt="GitHub" width="26px" style="margin: 5px" src="assets/github.webp" />
+<img align="left" alt="GitLab" width="26px" style="margin: 5px" src="assets/gitlab.webp" />
+<img align="left" alt="Cucumber" width="26px" style="margin: 5px" src="assets/cucumber.png" />
+<img align="left" alt="Selenium" width="26px" style="margin: 5px" src="assets/Selenium-Logo.png" />
 
 <br />
 
