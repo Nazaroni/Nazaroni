@@ -12,47 +12,47 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Nazaroni" width="22px" src="assets/globe.webp"/>][website]
+[<img align="left" alt="Nazaroni | YouTube" width="22px" src="assets/youtube.webp"/>][youtube]
+[<img align="left" alt="Nazaroni | Twitter" width="22px" src="assets/twitter.webp"/>][twitter]
+[<img align="left" alt="Nazaroni | LinkedIn" width="22px" src="assets/linkedin.webp"/>][linkedin]
+[<img align="left" alt="Nazaroni | Instagram" width="22px" src="assets/instagram.webp"/>][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" style="margin: 5px" src="assets/python.webp" />
-<img align="left" alt="TypeScript" width="26px" style="margin: 5px" src="assets/typescript.webp" />
-<img align="left" alt="JavaScript" width="26px" style="margin: 5px" src="assets/javascript.webp" />
-<img align="left" alt="C++" width="26px" style="margin: 5px" src="assets/cpp.webp" />
-<img align="left" alt="Go" width="26px" style="margin: 5px" src="assets/go.webp" />
-<img align="left" alt="Rust" width="26px" style="margin: 5px" src="assets/rust.webp" />
-<img align="left" alt="Swift" width="26px" style="margin: 5px" src="assets/swift.png" />
-<img align="left" alt="Kotlin" width="26px" style="margin: 5px" src="assets/kotlin.png" />
-<img align="left" alt="Rust" width="26px" style="margin: 5px" src="assets/rust.webp" />
-<img align="left" alt="React" width="26px" style="margin: 5px" src="assets/react.webp" />
-<img align="left" alt="Vue" width="26px" style="margin: 5px" src="assets/vuejs.webp" />
-<img align="left" alt="Nuxt" width="26px" style="margin: 5px" src="assets/nuxt-dot-js.png" />
-<img align="left" alt="NodeJS" width="26px" style="margin: 5px" src="assets/nodejs.webp" />
-<img align="left" alt="GraphQL" width="26px" style="margin: 5px" src="assets/graphql.png" />
-<img align="left" alt="Docker" width="26px" style="margin: 5px" src="assets/docker.webp" />
-<img align="left" alt="k8s" width="26px" style="margin: 5px" src="assets/kubernets.png" />
-<img align="left" alt="PostgreSQL" width="26px" style="margin: 5px" src="assets/postgresql.webp" />
-<img align="left" alt="MongoDB" width="26px" style="margin: 5px" src="assets/mongodb.webp" />
-<img align="left" alt="Visual Studio Code" width="26px" style="margin: 5px" src="assets/vs_code_dark.png" />
-<img align="left" alt="PyCharm" width="26px" style="margin: 5px" src="assets/pycharm.webp" />
-<img align="left" alt="WebStorm" width="26px" style="margin: 5px" src="assets/webstorm.png" />
-<img align="left" alt="Android Studio" width="26px" style="margin: 5px" src="assets/android-studio.png" />
-<img align="left" alt="Vim" width="26px" style="margin: 5px" src="assets/vim.png" />
-<img align="left" alt="Linux" width="26px" style="margin: 5px" src="assets/linux.webp" />
-<img align="left" alt="MacOS" width="26px" style="margin: 5px" src="assets/apple.webp" />
-<img align="left" alt="Windows" width="26px" style="margin: 5px" src="assets/windows.webp" />
-<img align="left" alt="Terminal" width="26px" style="margin: 5px" src="assets/terminal.webp" />
-<img align="left" alt="GitHub" width="26px" style="margin: 5px" src="assets/github.webp" />
-<img align="left" alt="GitLab" width="26px" style="margin: 5px" src="assets/gitlab.webp" />
-<img align="left" alt="Cucumber" width="26px" style="margin: 5px" src="assets/cucumber.png" />
-<img align="left" alt="Selenium" width="26px" style="margin: 5px" src="assets/Selenium-Logo.png" />
+<img align="left" alt="Python" width="26px" style="margin: 10px 10px 10px 10px" src="assets/python.webp" />
+<img align="left" alt="TypeScript" width="26px" style="margin: 10px 10px 10px 10px" src="assets/typescript.webp" />
+<img align="left" alt="JavaScript" width="26px" style="margin: 10px 10px 10px 10px" src="assets/javascript.webp" />
+<img align="left" alt="C++" width="26px" style="margin: 10px 10px 10px 10px" src="assets/cpp.webp" />
+<img align="left" alt="Go" width="26px" style="margin: 10px 10px 10px 10px" src="assets/go.webp" />
+<img align="left" alt="Rust" width="26px" style="margin: 10px 10px 10px 10px" src="assets/rust.webp" />
+<img align="left" alt="Swift" width="26px" style="margin: 10px 10px 10px 10px" src="assets/swift.png" />
+<img align="left" alt="Kotlin" width="26px" style="margin: 10px 10px 10px 10px" src="assets/kotlin.png" />
+<img align="left" alt="Rust" width="26px" style="margin: 10px 10px 10px 10px" src="assets/rust.webp" />
+<img align="left" alt="React" width="26px" style="margin: 10px 10px 10px 10px" src="assets/react.webp" />
+<img align="left" alt="Vue" width="26px" style="margin: 10px 10px 10px 10px" src="assets/vuejs.webp" />
+<img align="left" alt="Nuxt" width="26px" style="margin: 10px 10px 10px 10px" src="assets/nuxt-dot-js.png" />
+<img align="left" alt="NodeJS" width="26px" style="margin: 10px 10px 10px 10px" src="assets/nodejs.webp" />
+<img align="left" alt="GraphQL" width="26px" style="margin: 10px 10px 10px 10px" src="assets/graphql.png" />
+<img align="left" alt="Docker" width="26px" style="margin: 10px 10px 10px 10px" src="assets/docker.webp" />
+<img align="left" alt="k8s" width="26px" style="margin: 10px 10px 10px 10px" src="assets/kubernets.png" />
+<img align="left" alt="PostgreSQL" width="26px" style="margin: 10px 10px 10px 10px" src="assets/postgresql.webp" />
+<img align="left" alt="MongoDB" width="26px" style="margin: 10px 10px 10px 10px" src="assets/mongodb.webp" />
+<img align="left" alt="Visual Studio Code" width="26px" style="margin: 10px 10px 10px 10px" src="assets/vs_code_dark.png" />
+<img align="left" alt="PyCharm" width="26px" style="margin: 10px 10px 10px 10px" src="assets/pycharm.webp" />
+<img align="left" alt="WebStorm" width="26px" style="margin: 10px 10px 10px 10px" src="assets/webstorm.png" />
+<img align="left" alt="Android Studio" width="26px" style="margin: 10px 10px 10px 10px" src="assets/android-studio.png" />
+<img align="left" alt="Vim" width="26px" style="margin: 10px 10px 10px 10px" src="assets/vim.png" />
+<img align="left" alt="Linux" width="26px" style="margin: 10px 10px 10px 10px" src="assets/linux.webp" />
+<img align="left" alt="MacOS" width="26px" style="margin: 10px 10px 10px 10px" src="assets/apple.webp" />
+<img align="left" alt="Windows" width="26px" style="margin: 10px 10px 10px 10px" src="assets/windows.webp" />
+<img align="left" alt="Terminal" width="26px" style="margin: 10px 10px 10px 10px" src="assets/terminal.webp" />
+<img align="left" alt="GitHub" width="26px" style="margin: 10px 10px 10px 10px" src="assets/github.webp" />
+<img align="left" alt="GitLab" width="26px" style="margin: 10px 10px 10px 10px" src="assets/gitlab.webp" />
+<img align="left" alt="Cucumber" width="26px" style="margin: 10px 10px 10px 10px" src="assets/cucumber.png" />
+<img align="left" alt="Selenium" width="26px" style="margin: 10px 10px 10px 10px" src="assets/Selenium-Logo.png" />
 
 <br />
 <br />
