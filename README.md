@@ -80,8 +80,12 @@
 
 ---
 
-[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/Nazaroni/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/nazaroni/github-readme-stats)
+
+[![Nazar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazaroni&layout=compact)](https://github.com/nazaroni/github-readme-stats)
 
 
 [website]: https://github.com/Nazaroni
