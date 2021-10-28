@@ -4,11 +4,13 @@
 
 ## I'm a Husband, Father, Developer, and Dreamer!!!
 
-- 🌱 I’m currently learning Go :ghost:
+- 🌱 I’m currently learning Go :ghost: and improving my :de: language skills.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play with my daughter :girl: 
-- :electric_plug: Also, I love cool tech gadgets :movie_camera:  
+- :electric_plug: Also, I love cool tech gadgets :movie_camera: 
+- I ❤️ Open Source
+- I speak freely: :ukraine:, :us:, :de: :poland:, :ru:, and a little :fr:
 
 ### Connect with me:
 
