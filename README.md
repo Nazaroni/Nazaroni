@@ -80,14 +80,14 @@
 
 ---
 
-[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/Nazaroni/github-readme-stats)
+[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/Nazaroni)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/Nazaroni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/Nazaroni)
 
 
 <!--START_SECTION:waka-->
-[![Nazar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazaroni)](https://github.com/Nazaroni/github-readme-stats)
+[![Nazar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazaroni&v=2)](https://github.com/Nazaroni)
 <!--END_SECTION:waka-->
 
 
