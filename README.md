@@ -91,6 +91,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/Nazaroni)
 
 
+<!--START_SECTION:waka-->
+[![Nazar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazaroni&v=2&layout=compact)](https://github.com/Nazaroni)
+<!--END_SECTION:waka-->
+
+
 [website]: https://github.com/Nazaroni
 [twitter]: https://twitter.com/Nazaroni
 [youtube]: https://www.youtube.com/NazarMalyy
