@@ -1,4 +1,3 @@
-[![wakatime this week](https://wakatime.com/badge/user/817b9cb0-035d-479f-963a-a733daa8ff53.svg)](https://wakatime.com/@817b9cb0-035d-479f-963a-a733daa8ff53)
 [![twitter](https://img.shields.io/twitter/follow/Nazaroni?label=followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Nazaroni)
 [![github](https://img.shields.io/github/followers/Nazaroni?logo=github&style=flat)](https://github.com/Nazaroni?tab=followers)
 
