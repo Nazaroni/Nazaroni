@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to play with my daughter :girl: 
 - :electric_plug: Also, I love cool tech gadgets :movie_camera: 
 - I ❤️ Open Source
-- I speak: :ukraine:, :us:, :de:, :poland:, :ru:, and a little :fr:
+- I speak: :ukraine:, :us:, :de:, :poland:, and a little :fr:
 
 ### Connect with me:
 
