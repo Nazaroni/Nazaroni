@@ -6,10 +6,10 @@
 
 ## I'm a Husband, Father, Developer, and Dreamer!!!
 
-- 🌱 I’m currently learning Go :ghost: and improving my :de: language skills.
+- 🌱 I’m currently learning "Rust" :ghost: and improving my :de: language skills.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play with my daughter :girl: 
+- ⚡ Fun fact: I love to play with my daughter :girl: and son :boy: :sunny:
 - :electric_plug: Also, I love cool tech gadgets :movie_camera: 
 - I ❤️ Open Source
 - I speak: :ukraine:, :us:, :de:, :poland:, and a little :fr:
@@ -34,7 +34,6 @@
 <img align="left" alt="Rust" width="26px" style="padding:10px" src="assets/rust.webp" />
 <img align="left" alt="Swift" width="26px" style="padding:10px" src="assets/swift.png" />
 <img align="left" alt="Kotlin" width="26px" style="padding:10px" src="assets/kotlin.png" />
-<img align="left" alt="Rust" width="26px" style="padding:10px" src="assets/rust.webp" />
 <img align="left" alt="React" width="26px" style="padding:10px" src="assets/react.webp" />
 <img align="left" alt="Vue" width="26px" style="padding:10px" src="assets/vuejs.webp" />
 <img align="left" alt="Nuxt" width="26px" style="padding:10px" src="assets/nuxt-dot-js.png" />
