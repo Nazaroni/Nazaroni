@@ -1,4 +1,3 @@
-[![twitter](https://img.shields.io/twitter/follow/Nazaroni?label=followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Nazaroni)
 [![github](https://img.shields.io/github/followers/Nazaroni?logo=github&style=flat)](https://github.com/Nazaroni?tab=followers)
 
 # Hi there, I'm Nazar - aka [Nazaroni][website] 👋
@@ -8,7 +7,7 @@
 
 - 🌱 I’m currently learning "Rust" :ghost: and improving my :de: language skills.
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Perfect communication in my cross-functional team and boost my channel
 - ⚡ Fun fact: I love to play with my daughter :girl: and son :boy: :sunny:
 - :electric_plug: Also, I love cool tech gadgets :movie_camera: 
 - I ❤️ Open Source
