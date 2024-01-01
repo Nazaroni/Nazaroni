@@ -19,7 +19,6 @@
 [<img align="left" alt="Nazaroni | YouTube" width="22px" src="assets/youtube.webp"/>][youtube]
 [<img align="left" alt="Nazaroni | Twitter" width="22px" src="assets/twitter.webp"/>][twitter]
 [<img align="left" alt="Nazaroni | LinkedIn" width="22px" src="assets/linkedin.webp"/>][linkedin]
-[<img align="left" alt="Nazaroni | Instagram" width="22px" src="assets/instagram.webp"/>][instagram]
 
 <br />
 
