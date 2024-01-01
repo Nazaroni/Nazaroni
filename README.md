@@ -5,9 +5,9 @@
 
 ## I'm a Husband, Father, Developer, and Dreamer!!!
 
-- 🌱 I’m currently learning "Rust" :ghost: and improving my :de: language skills.
+- 🌱 I’m currently learning Rust & Go :ghost: and improving my :de: language skills.
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals: Perfect communication in my cross-functional team and boost my channel
+- 🥅 2023 Goals: Contributing to Rust — community building
 - ⚡ Fun fact: I love to play with my daughter :girl: and son :boy: :sunny:
 - :electric_plug: Also, I love cool tech gadgets :movie_camera: 
 - I ❤️ Open Source
