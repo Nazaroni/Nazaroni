@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Rust & Go :ghost: and improving my :de: language skills.
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals: Contributing to Rust — community building
+- 🥅 2024 Goals: Contributing to Rust — community building
 - ⚡ Fun fact: I love to play with my daughter :girl: and son :boy: :sunny:
 - :electric_plug: Also, I love cool tech gadgets :movie_camera: 
 - I ❤️ Open Source
