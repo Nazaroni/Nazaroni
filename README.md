@@ -2,14 +2,11 @@
 
 # Hi there, I'm Nazar - aka [Nazaroni][website] 👋
 
-
 ## I'm a Husband, Father, Developer, and Dreamer!!!
 
-- 🌱 I’m currently learning Rust & Go :ghost: and improving my :de: language skills.
+- 🌱 I’m currently improving my Rust skills. I found it very interesting and powerful language
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2024 Goals: Contributing to Rust — community building
-- ⚡ Fun fact: I love to play with my daughter :girl: and son :boy: :sunny:
-- :electric_plug: Also, I love cool tech gadgets :movie_camera: 
+- 🥅 2025 Goals: Contribute to my social network community
 - I ❤️ Open Source
 - I speak: :ukraine:, :us:, :de:, :poland:, and a little :fr:
 
@@ -24,20 +21,19 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Rust" width="26px" style="padding:10px" src="assets/rust.webp" />
 <img align="left" alt="Python" width="26px" style="padding:10px" src="assets/python.webp" />
+<img align="left" alt="Go" width="26px" style="padding:10px" src="assets/go.webp" />
 <img align="left" alt="TypeScript" width="26px" style="padding:10px" src="assets/typescript.webp" />
 <img align="left" alt="JavaScript" width="26px" style="padding:10px" src="assets/javascript.webp" />
-<img align="left" alt="C++" width="26px" style="padding:10px" src="assets/cpp.webp" />
-<img align="left" alt="Go" width="26px" style="padding:10px" src="assets/go.webp" />
-<img align="left" alt="Rust" width="26px" style="padding:10px" src="assets/rust.webp" />
-<img align="left" alt="Swift" width="26px" style="padding:10px" src="assets/swift.png" />
 <img align="left" alt="Kotlin" width="26px" style="padding:10px" src="assets/kotlin.png" />
+<img align="left" alt="Swift" width="26px" style="padding:10px" src="assets/swift.png" />
+<img align="left" alt="Docker" width="26px" style="padding:10px" src="assets/docker.webp" />
 <img align="left" alt="React" width="26px" style="padding:10px" src="assets/react.webp" />
 <img align="left" alt="Vue" width="26px" style="padding:10px" src="assets/vuejs.webp" />
 <img align="left" alt="Nuxt" width="26px" style="padding:10px" src="assets/nuxt-dot-js.png" />
 <img align="left" alt="NodeJS" width="26px" style="padding:10px" src="assets/nodejs.webp" />
 <img align="left" alt="GraphQL" width="26px" style="padding:10px" src="assets/graphql.png" />
-<img align="left" alt="Docker" width="26px" style="padding:10px" src="assets/docker.webp" />
 <img align="left" alt="k8s" width="26px" style="padding:10px" src="assets/kubernets.png" />
 <img align="left" alt="PostgreSQL" width="26px" style="padding:10px" src="assets/postgresql.webp" />
 <img align="left" alt="MongoDB" width="26px" style="padding:10px" src="assets/mongodb.webp" />
@@ -63,6 +59,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Rave First high-tech desk 🤯](https://youtu.be/hD-lNMkbV3M)
 <!-- YOUTUBE:END -->
 
@@ -73,6 +70,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Docker in Docker](https://https://dev.to/nazaroni)
 
 <!-- BLOG-POST-LIST:END -->
@@ -83,9 +81,7 @@
 
 [![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/Nazaroni)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/Nazaroni)
-
 
 [website]: https://github.com/Nazaroni
 [twitter]: https://twitter.com/Nazaroni
