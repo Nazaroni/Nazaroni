@@ -7,7 +7,7 @@
 - 🌱 I’m currently improving my Rust skills. I found it very interesting and powerful language
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2025 Goals: Contribute to my social network community
-- I ❤️ Open Source
+- I ❤️ Open Source and Neovim
 - I speak: :ukraine:, :us:, :de:, :poland:, and a little :fr:
 
 ### Connect with me:
