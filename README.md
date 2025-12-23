@@ -78,7 +78,7 @@
 
 ---
 [![Nazaroni GitHub stats](https://github-readme-stats-eight-sandy-65.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true&theme=city_lights)](https://github.com/Nazaroni)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact&theme=city_lights)](https://github.com/Nazaroni) -->
+[![Top Langs](https://github-readme-stats-eight-sandy-65.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact&theme=city_lights)](https://github.com/Nazaroni)
 
 ---
 
