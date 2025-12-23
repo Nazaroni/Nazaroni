@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently improving my Rust skills. I found it very interesting and powerful language
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2025 Goals: Contribute to my social network community
+- 🥅 2026 Goals: Contribute more to Open Souce
 - I ❤️ Open Source and Neovim
 - I speak: :ukraine:, :us:, :de:, :poland:, and a little :fr:
 
@@ -39,7 +39,6 @@
 <img align="left" alt="MongoDB" width="26px" style="padding:10px" src="assets/mongodb.webp" />
 <img align="left" alt="Visual Studio Code" width="26px" style="padding:10px" src="assets/vs_code_dark.png" />
 <img align="left" alt="PyCharm" width="26px" style="padding:10px" src="assets/pycharm.webp" />
-<img align="left" alt="WebStorm" width="26px" style="padding:10px" src="assets/webstorm.png" />
 <img align="left" alt="Android Studio" width="26px" style="padding:10px" src="assets/android-studio.png" />
 <img align="left" alt="Vim" width="26px" style="padding:10px" src="assets/vim.png" />
 <img align="left" alt="Linux" width="26px" style="padding:10px" src="assets/linux.webp" />
@@ -79,12 +78,11 @@
 
 ---
 
-[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true)](https://github.com/Nazaroni)
+[![Nazaroni GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazaroni&count_private=true&show_icons=true&theme=city_lights)](https://github.com/Nazaroni)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact)](https://github.com/Nazaroni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazaroni&langs_count=16&layout=compact&theme=city_lights)](https://github.com/Nazaroni)
 
 [website]: https://github.com/Nazaroni
 [twitter]: https://twitter.com/Nazaroni
 [youtube]: https://www.youtube.com/NazarMalyy
-[instagram]: https://instagram.com/nazaroni
 [linkedin]: https://linkedin.com/in/nazarmalyy
